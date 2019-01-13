@@ -1,0 +1,14 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+
+.html-elements-table{
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+.html-elements-table td{
+    border: 1px solid black;
+    padding: 5px;
+}
